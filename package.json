@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": "https://github.com/jorge-cue/chatrooms.git",
   "dependencies": {
-    "socket.io": "~0.9.6",
-    "mime": "~1.2.7"
+    "socket.io": "^2.1.1",
+    "mime": "^2.3.1"
   }
 }
